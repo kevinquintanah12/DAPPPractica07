@@ -10,15 +10,6 @@ Muestra 2. Frontend iniciado.
 Muestra 3. Muestra de la pantalla de login desde el frontend encendido.
 <img width="1110" height="582" alt="image" src="https://github.com/user-attachments/assets/43744dba-ad6f-4b3b-9694-beb53ede4414" />
 
-Muestra 4. Autenticación desde el navegador en el forntend, usando los datos del back.
-<img width="1280" height="258" alt="image" src="https://github.com/user-attachments/assets/ee7f94d1-c72c-4743-aee8-46d2cf4ccc61" />
-
 Muestra 5. Muestra de los empleados en el navegador luego de la autenticación.
-<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/1d293b76-6b40-486a-b557-d1248844d852" />
-
-Muestra 6. Ingreso de datos en la tabla para agregar un nuevo empleado.
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/d218734a-36ed-4fb8-92bf-d3baca9f1a98" />
-
-Muestra 7. Anexo del nuevo empleado en la tabla, que se agrega a Base de Datos.
-<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/193e802d-f089-4b22-bf2a-20fec85ac02d" />
+<img width="890" height="420" alt="image" src="https://github.com/user-attachments/assets/1d8d0f10-56e8-487b-af96-bd0a1022788b" />
 
