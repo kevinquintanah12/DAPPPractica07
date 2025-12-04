@@ -8,7 +8,7 @@ Muestra 2. Frontend iniciado.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e0d40227-dcb5-40ca-b67e-43574c70c9cc" />
 
 Muestra 3. Muestra de la pantalla de login desde el frontend encendido.
-<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/ac2f196e-3c5d-4813-9445-fe4721bde04b" />
+<img width="1110" height="582" alt="image" src="https://github.com/user-attachments/assets/43744dba-ad6f-4b3b-9694-beb53ede4414" />
 
 Muestra 4. Autenticación desde el navegador en el forntend, usando los datos del back.
 <img width="1280" height="258" alt="image" src="https://github.com/user-attachments/assets/ee7f94d1-c72c-4743-aee8-46d2cf4ccc61" />
